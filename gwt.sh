@@ -1,0 +1,1 @@
+java -cp /Users/scott/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-dev/2.9.0/8c530e985114901166261cb2baf5ec75a6e55b9b/gwt-dev-2.9.0.jar:libs/gwt_node_hw.adligo.org.jar:src com.google.gwt.dev.Compiler GwtNodeHw
