@@ -3,7 +3,7 @@ This is a real basic test to see about the GWT JSNI interaction on Node.js, I th
 
 # Links of interest;
 ## <a href="http://www.jsweet.org/" target="_blank">JSweet</a>
-## [JSWeet](http://www.jsweet.org/?target=_blank)
+## [JSWeet](http://www.jsweet.org/){:target="_blank" rel="noopener"}
 ## <a href="http://www.gwtproject.org/" target="_blank">GWT</a>
 ## <a href="https://stackoverflow.com/questions/57625909/are-there-any-examples-of-using-gwt-for-nodejs" target="_blank">Stack Overflow Thread #1</a>
 
