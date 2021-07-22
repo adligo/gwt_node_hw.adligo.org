@@ -1,6 +1,7 @@
 .classpath
 # Ignore Gradle project-specific cache directory
 .gradle
+.gwt-unit*
 .settings
 .settings/*
 
@@ -8,5 +9,11 @@
 build
 /bin/
 
+gwt-unitCache*
+
 node_modules
 /node_modules/
+
+war
+war/WEB-INF/lib
+/war/

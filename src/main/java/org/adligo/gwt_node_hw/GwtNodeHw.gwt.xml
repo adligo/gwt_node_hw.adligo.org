@@ -1,4 +1,6 @@
 <module rename-to="GwtNodeHw">
     <inherits name="com.google.gwt.user.User" />
     <entry-point class="org.adligo.gwt_node_hw.client.HelloNodeEntryPoint" />
+    <source path="client"/>
+    <source path="shared"/>
 </module>
