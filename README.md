@@ -14,6 +14,7 @@ This is a real basic test to see about the GWT JSNI interaction on Node.js, I th
 ### 3.2) Others? (I don't think Kotlin native will take Java source or bytecode, etc)
 ## 4) GWT
 
+# Write Once Run everywhere!
 
 # Links of interest;
 ## <a href="http://www.jsweet.org/" target="_blank">JSweet</a>
