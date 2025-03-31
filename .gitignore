@@ -17,3 +17,5 @@ node_modules
 war
 war/WEB-INF/lib
 /war/
+/bin/
+/bin
